@@ -4,9 +4,9 @@
 
 저와 함께 최고의 업무 효율을 경험해보세요!
 
-[![TakaLog](https://img.shields.io/badge/-TakaLog-black?style=flat-square&logo=codemagic&logoColor=ff6dff&link=https://www.takalog.co.kr/)](https://www.takalog.co.kr/)
-[![Instagram Badge](https://img.shields.io/badge/-k.byunghyun-black?style=flat-square&logo=instagram&link=https://instagram.com/k.byunghyun/)](https://www.instagram.com/k.byunghyun)
-[![Naver Badge](https://img.shields.io/badge/-huraim@naver.com-black?style=flat-square&logo=naver&link=mailto:huraim@naver.com)](mailto:huraim@naver.com)
+[![TakaLog](https://img.shields.io/badge/-TakaLog-ad6cff?style=flat-square&logo=codemagic&logoColor=black&link=https://www.takalog.co.kr/)](https://www.takalog.co.kr/)
+[![Instagram Badge](https://img.shields.io/badge/-k.byunghyun-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/k.byunghyun/)](https://www.instagram.com/k.byunghyun)
+[![Naver Badge](https://img.shields.io/badge/-huraim@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:huraim@naver.com)](mailto:huraim@naver.com)
 
 ## ⚡ Technologies
 
@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
