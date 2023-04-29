@@ -22,6 +22,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![CSS Module](https://img.shields.io/badge/-CSS%20Module-black?style=flat-square&logo=cssmodules)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![Vitess](https://img.shields.io/badge/-Vitess-black?style=flat-square&logo=vitess)
 ![Planetscale](https://img.shields.io/badge/-Planetscale-black?style=flat-square&logo=planetscale)
