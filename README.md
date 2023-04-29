@@ -1,7 +1,6 @@
 ## 티키타카 하실까요? <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-기업 자산에 튼튼한 기반이 될 타카(TAKA) 입니다.
-
+기업 자산에 튼튼한 기반이 될 타카(TAKA) 입니다.  
 저와 함께 최고의 업무 효율을 경험해보세요!
 
 [![TakaLog](https://img.shields.io/badge/-TakaLog-ad6cff?style=flat-square&logo=codemagic&logoColor=white&link=https://www.takalog.co.kr/)](https://www.takalog.co.kr/)
