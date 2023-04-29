@@ -57,3 +57,6 @@
 ![Google Adsense](https://img.shields.io/badge/-Google%20Adsense-black?style=flat-square&logo=googleadsense)
 ![Hotjar](https://img.shields.io/badge/-Hotjar-black?style=flat-square&logo=hotjar)
 ![Naver Searchadvisor](https://img.shields.io/badge/-Naver%20Searchadvisor-black?style=flat-square&logo=naver)
+![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
+![Zoom](https://img.shields.io/badge/-Zoom-black?style=flat-square&logo=zoom)
+![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
