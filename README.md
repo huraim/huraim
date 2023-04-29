@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-k.byunghyun-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/k.byunghyun/)](https://www.instagram.com/k.byunghyun)
 [![Naver Badge](https://img.shields.io/badge/-huraim@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:huraim@naver.com)](mailto:huraim@naver.com)
 
-## ⚡ Technologies
+## Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
