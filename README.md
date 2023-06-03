@@ -39,6 +39,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-black?style=flat-square&logo=oracle)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Git LFS](https://img.shields.io/badge/-Git%20LFS-black?style=flat-square&logo=gitlfs)
