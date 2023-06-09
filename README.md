@@ -38,6 +38,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=flat-square&logo=raspberrypi)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-black?style=flat-square&logo=oracle)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
