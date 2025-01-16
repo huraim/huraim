@@ -3,7 +3,7 @@
 기업 자산에 튼튼한 기반이 될 타카(TAKA)입니다.  
 저와 함께 최고의 업무 효율을 경험해 보세요!
 
-[![TakaLog](https://img.shields.io/badge/-TakaLog-ad6cff?style=flat-square&logo=codemagic&logoColor=white&link=https://www.takalog.co.kr/)](https://www.takalog.co.kr/)
+[![TakaHall](https://img.shields.io/badge/-TakaLog-ad6cff?style=flat-square&logo=codemagic&logoColor=white&link=https://www.takahall.com)](https://www.takahall.com)
 [![Instagram Badge](https://img.shields.io/badge/-k.byunghyun-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/k.byunghyun/)](https://www.instagram.com/k.byunghyun)
 [![Naver Badge](https://img.shields.io/badge/-huraim@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:huraim@naver.com)](mailto:huraim@naver.com)
 
